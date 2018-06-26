@@ -1,14 +1,11 @@
 package com.teja.BubbleSort_Maven;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        //System.out.println( "Hello World!" );
     }
     
     public int[] bubbleSort(int arr[])
